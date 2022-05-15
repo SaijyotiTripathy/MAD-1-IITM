@@ -1,0 +1,19 @@
+div{
+	margin: 20px;
+}
+body{
+	background-color: #fdfdbb;
+}
+a{
+	color: #ff0000;
+	text-decoration: none;
+}
+span{
+	color: #0000ff;
+}
+h5{
+	position: fixed;
+	width: 100%;
+	bottom: 0px;
+	text-align: center;
+}
